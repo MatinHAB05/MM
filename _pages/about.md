@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>402521189 your office number</p>
-    <p>209 your home adress</p>
+    <p>402521189 ID number</p>
+    <p>209 home adress</p>
     <p>Tehren , Hakimie </p>
 
 news: true # includes a list of news items
